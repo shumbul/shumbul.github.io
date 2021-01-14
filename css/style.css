@@ -334,6 +334,12 @@ section h2 {
 }
 .success {
     color: #747474;
+   /* background: #1abc9c;
+    color: #ffffff!important;
+    z-index: 0;
+    overflow: hidden;
+    position: relative;
+*/}
 }
 section .ray1 {
     margin: 0 0 0 30px;
@@ -386,12 +392,12 @@ section .ray-bottom {
     margin: 0;
     text-transform: uppercase;
     font-weight: 100;
-    /*border-left: 28px solid #1abc9c;*/
+    border-left: 28px solid #1abc9c;
 
     padding: 0;
-    font: 24px/45px Raleway, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 24px/40px Raleway, "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #999;
-    /* padding: 0; */
+     /*padding: 0; */
 }
 .resume-content h3 span {
     background: #222222;
@@ -400,7 +406,7 @@ section .ray-bottom {
     text-align: center;
 }
 .intro-text {
-    /* width: 200px; */
+     /*width: 2000px; */
 
     height: auto;
     text-align: center;
