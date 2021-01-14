@@ -9,7 +9,7 @@
 1. Update Images, Resume, Certificates, Skills
 2. Enhance and improvise overall look and theme
 3. Change font sizes accordingly
-4. Add a photo gallery about myself
+4. Add a photo gallery about self
 5. Photo gallery of my work (should be presented in a creative style), plus good certificate page
 6. Add an option to "expand and view" in the sections of resume.
 7. Adding links to other accounts. (Gitlab, Devfolio, Codeforces, Hackerrank, Twitter, Snapchat and Quora)
