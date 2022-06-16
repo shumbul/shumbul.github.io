@@ -21,11 +21,11 @@ body {
     -webkit-transition: all 0.2s ease-out 0s;
     -moz-transition: all 0.2s ease-out 0s;
     -ms-transition: all 0.2s ease-out 0s;
-    # -o-transition: all 0.2s ease-out 0s;
+    -o-transition: all 0.2s ease-out 0s;
     transition: all 0.2s ease-out 0s;
 }
 a {
-    color: #999!important;
+    color: black!important;
     text-decoration: none!important;
 }
 p {
@@ -179,7 +179,6 @@ hr.star-primary:after {
     text-transform: capitalize!important;
     color: #222!important;
     position: relative;
-    font-family: 'Mrs Sheppards', cursive!important;
     right: -25px;
 }
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
@@ -340,7 +339,6 @@ section h2 {
     overflow: hidden;
     position: relative;
 */}
-}
 section .ray1 {
     margin: 0 0 0 30px;
 }
